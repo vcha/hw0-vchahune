@@ -5,8 +5,8 @@
 	<artifactId>hw0-vchahune</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<scm>
-		<connection>scm:git:git://github.com/vcha/hw0-vchahune.git</connection>
-		<developerConnection>scm:git:git://github.com/vcha/hw0-vchahune.git</developerConnection>
+		<connection>scm:git:git@github.com:vcha/hw0-vchahune.git</connection>
+		<developerConnection>scm:git:git@github.com:vcha/hw0-vchahune.git</developerConnection>
 	</scm>
 	<repositories>
 		<repository>
